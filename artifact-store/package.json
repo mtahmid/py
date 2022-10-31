@@ -1,0 +1,17 @@
+{
+  "name": "pymetrics-grid",
+  "version": "1.0.0",
+  "description": "selenium grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.359.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
